@@ -24,7 +24,7 @@ Berikut teman-teman saya di kelas:
 - [JELITA ANGGRAINI](https://jexiee99.github.io/jexiee99/)
 - [KAISAN NURWALED](https://kaisan969.github.io)
 - [KHAIRATIL AINI](https://khairatilaini.github.io/)
-- [KHALISHA ZAFIRA](https://khalisha0zafira.github.io/khalishazafira.github.io/)
+- [KHALISHA ZAFIRA](https://khalisha0zafira.github.io/)
 - [LEDIANA BERASA](https://ledianaberasa.github.io/)
 - [LINDA WATI](https://lindawati26.github.io/)
 - [LIZA AULIA SIREGAR](https://lizaauliasiregar.github.io/)

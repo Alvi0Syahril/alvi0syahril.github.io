@@ -3,7 +3,7 @@ layout: default
 title: Friends
 ---
 
-# Freinds Page
+# Friends Page
 
 Berikut teman-teman saya di kelas:
 1. [Ahmad Aulia Fahlevi](https://lepii1.github.io)

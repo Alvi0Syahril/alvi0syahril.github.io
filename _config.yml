@@ -4,3 +4,6 @@ plugin:
   -jekyll-feed
   -jekyll-sittemp
   -jekyll-seo-tag
+
+  # markdown: kramdown
+  

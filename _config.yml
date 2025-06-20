@@ -1,0 +1,9 @@
+ulr: " https://alvi0syahril.github.io "
+
+plugin:
+  -jekyll-feed
+  -jekyll-sittemp
+  -jekyll-seo-tag
+
+  # markdown: kramdown
+  

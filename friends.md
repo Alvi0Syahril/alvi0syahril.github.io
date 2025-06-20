@@ -1,36 +1,40 @@
 ---
-layout: default 
-tittle: Freinds
+layout: default
+title: Friends
 ---
 
-# Freinds Page
+# Friends page
 
 Berikut teman-teman saya di kelas:
-- [Ahmad Aulia Fahlevi](https://lepii1.github.io)
-- [Alvi Syahril](https://alvi0syahril.github.io/)
-- [Bunga Alfa Zahrah](https://bunga-hub.github.io)
-- [Deva Risny](http://devarisny.github.io/)
-- [Faqriyadi Andika](http://faqriyadiandika.github.io/)
-- [Faizul Abrar](https://faizul-abrar.github.io//)
-- [Fathan Mubina](https://fathan-mubina.github.io//)
-- [Firdhila Ananda Syahputri](https://firdhilaananda.github.io)
-- [Hafidz Maulana](https://hafidzmaulana28.github.io/)
-- [Hamizan Putra Zulia](https://hamizan18.github.io/)
-- [Hayzar Muhaiyar](https://hayzarmuhaiyar0101.github.io/)
-- [Ilham Syahdienar](https://ilhamdienar.github.io/)
-- [Imam Nawawi](https://imamnawawi1c.github.io/)
-- [Irfandi](https://irfandi8.github.io/irfandi8/)
-- [Izzati Nurvira](https://izzati31.github.io/)
-- [Jelita Anggraini](https://jexiee99.github.io/jexiee99/)
-- [Kaisan Nurwaled](https://kaisan969.github.io)
-- [Khairatil Aini](https://khairatilaini.github.io/)
-- [Khalisha Zafira](https://khalisha0zafira.github.io/)
-- [Lediana Berasa](https://ledianaberasa.github.io/)
-- [Linda Wati](https://lindawati26.github.io/)
-- [Liza Aulia Siregar](https://lizaauliasiregar.github.io/)
-- [M. Hafidz Firansyah](https://mhafidzfiransyah.github.io/)
-- [M. Iqbal Sayuti](https://iqbalsayuti0.github.io/)
-- [Maila Aziza](https://mailaazizaa.github.io/)
-- [Maisha Zahrani](https://maishazahrani.github.io/)
-- [Malia Ulfa](https://maliaulfa2.github.io/)
-- [Muhammad Fathurrahman](https://fyou00.github.io/)
+<br>
+
+<ol class="list-friends">
+  <li><a href="https://lepii1.github.io/">Ahmad Aulia Fahlevi</a></li>
+  <li><a href="https://alvi0syahril.github.io/">Alvi Syahril</a></li>
+  <li><a href="https://bunga-hub.github.io/">Bunga Alfa Zahrah</a></li>
+  <li><a href="https://devarisny.github.io">Deva Risny</a></li>
+  <li><a href="https://faizul-abrar.github.io/">Faizul Abrar</a></li>
+  <li><a href="https://faqriyadiandika.github.io">Faqriyadi Andika</a></li>
+  <li><a href="https://fathan-mubina.github.io/">Fathan Mubina</a></li>
+  <li><a href="https://firdhilaananda.github.io">Firdhila Ananda Syahputri</a></li>
+  <li><a href="https://hafidzmaulana28.github.io/">Hafidz Maulana</a></li>
+  <li><a href="https://hamizan18.github.io/">Hamizan Putra Zulia</a></li>
+  <li><a href="https://hayzarmuhaiyar0101.github.io/">Hayzar Muhaiyar</a></li>
+  <li><a href="https://ilhamdienar.github.io/">Ilham Syahdienar</a></li>
+  <li><a href="https://imamnawawi1c.github.io/">Imam Nawawi</a></li>
+  <li><a href="https://irfandi8.github.io/">Irfandi</a></li>
+  <li><a href="https://izzati31.github.io/">Izzati Nurvira</a></li>
+  <li><a href="https://jexiee99.github.io/">Jelita Anggraini</a></li>
+  <li><a href="https://kaisan969.github.io">Kaisan Nurwaled</a></li>
+  <li><a href="https://khairatilaini.github.io/">Khairatil Aini</a></li>
+  <li><a href="https://khalisha0zafira.github.io/">Khalisha Zafira</a></li>
+  <li><a href="https://ledianaberasa.github.io/">Lediana Berasa</a></li>
+  <li><a href="https://lindawati26.github.io/">Linda Wati</a></li>
+  <li><a href="https://lizaauliasiregar.github.io/">Liza Aulia Siregar</a></li>
+  <li><a href="https://mhafidzfiransyah.github.io/">M. Hafidz Firansyah</a></li>
+  <li><a href="https://iqbalsayuti0.github.io/">M. Iqbal Sayuti</a></li>
+  <li><a href="https://mailaazizaa.github.io/">Maila Aziza</a></li>
+  <li><a href="https://maishazahrani.github.io/">Maisha Zahrani</a></li>
+  <li><a href="https://maliaulfa2.github.io/">Malia Ulfa</a></li>
+  <li><a href="https://fyou00.github.io/friends.html" class="me">Muhammad Fathurrahman</a></li>
+</ol>

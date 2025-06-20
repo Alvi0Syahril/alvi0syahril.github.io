@@ -1,7 +1,115 @@
-.current {
-    color: green;
+$primary-color: #254D70;
+$secondary-color: #131D4F;
+$highlight: #F6F8FA;
+$font-stack: Helvetica, sans-serif;
+
+body,
+h1,
+h2,
+p {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
 }
-.nama {
-    color: red;
-    text-decoration: underline;
+
+body {
+	font-family: $font-stack;
+	background-color: #f4f4f4;
+	line-height: 1.6;
+}
+
+header {
+	text-align: center;
+	padding: 24px;
+	background-color: $primary-color;
+	color: #ffffff;
+}
+
+main {
+	padding: 24px;
+	background-color: #fff;
+	margin-top: 24px;
+	box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+	text-align: center;
+	padding: 8px;
+	background-color: $primary-color;
+	color: #fff;
+	margin-top: 24px;
+}
+
+h2 {
+	color: #333;
+	margin-bottom: 8px;
+}
+
+nav {
+	margin: 24px 0;
+	ul {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		background-color: $primary-color;
+	}
+	li {
+		float: left;
+		a {
+			display: block;
+			color: white;
+			text-align: center;
+			padding: 8px 16px;
+			text-decoration: none;
+			&:hover:not(.active) {
+				background-color: $secondary-color;
+			}
+		}
+	}
+}
+
+.container {
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+}
+
+.profile-picture {
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	margin: 24px auto;
+	background-color: $secondary-color;
+}
+
+.active {
+	background-color: $secondary-color;
+}
+
+.highlight {
+	background-color: $highlight;
+	padding: 1px 12px;
+}
+
+.post-list {
+	list-style-type: none;
+	padding: 0;
+	.post-item {
+		background-color: $highlight;
+		border: 1px solid #ddd;
+		padding: 16px;
+		margin-bottom: 16px;
+		border-radius: 8px;
+		box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+		border-left: 4px solid $primary-color;
+		a {
+			text-decoration: none;
+			color: $primary-color;
+			&:hover {
+				text-decoration: underline;
+				background-color: lighten($highlight, 90%);
+			}
+		}
+	}
 }

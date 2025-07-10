@@ -11,12 +11,13 @@
     <link rel="icon" href="{{ site.baseurl }}/assets/images/favicon.ico">
 
     <!-- JavaScript -->
-    <script src="{{ site.baseurl}}/assets/js/scripts.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/scripts.js"></script>
 
     <!--plugins-->
-    {% feed_meta %}
-    {% seo %}
-
+    {% if site.github %}
+      {% feed_meta %}
+      {% seo %}
+    {% endif %}
 </head>
 <body>
     <div class="container">
@@ -38,6 +39,6 @@ class="profile-picture">
         <footer>
             <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. All rights reserved.</p>
         </footer>
-        </div>
+    </div>
 </body>
 </html>

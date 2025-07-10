@@ -1,6 +1,14 @@
-url: 'https://fyou00.github.io/'
+url: "https://alvi0syahril.github.io"
+
+title: M.Iqbal Sayuti
+description: Halo.
 
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+
+  # _config.yml
+sass:
+  load_paths:
+    - _SASS
